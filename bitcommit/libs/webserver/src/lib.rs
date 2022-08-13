@@ -1,5 +1,5 @@
 use std::{
-    net::TcpListener,
+    net::TcpListener, io,
 };
 
 
@@ -51,8 +51,8 @@ fn test_fn2() {
 
 
 
-struct Router {
-    uint: std::net::TcpListener
+pub struct Router {
+    listener: std::net::TcpListener
 }
 
 impl  Router {
@@ -60,12 +60,13 @@ impl  Router {
 
 
 
-    pub fn new() -> Self {
-        let listener = TcpListener::bind("127.0.0.1:8080").unwrap();
-
-        Self {
-            uint: listener
-        }
+    pub fn new(&self) -> io::Result<Router> {
+        let listener = TcpListener::bind("127.0.0.1:8080")?;
+        Ok (
+            Router {
+                listener
+            }
+        )
     }
 
 
@@ -73,7 +74,7 @@ impl  Router {
 
 
     pub fn route(route: String) {
-        
+        // if request starts with $route
     }
 
 

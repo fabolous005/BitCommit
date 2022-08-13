@@ -1,3 +1,5 @@
+mod socket;
+
 
 pub struct Stats {
     pub num_files: u64,
