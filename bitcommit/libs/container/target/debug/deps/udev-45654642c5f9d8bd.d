@@ -1,0 +1,13 @@
+/home/fabiane/git/BitCommit/bitcommit/libs/container/target/debug/deps/udev-45654642c5f9d8bd.rmeta: /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/lib.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/device.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/enumerator.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/list.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/monitor.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/udev.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/util.rs
+
+/home/fabiane/git/BitCommit/bitcommit/libs/container/target/debug/deps/libudev-45654642c5f9d8bd.rlib: /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/lib.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/device.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/enumerator.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/list.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/monitor.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/udev.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/util.rs
+
+/home/fabiane/git/BitCommit/bitcommit/libs/container/target/debug/deps/udev-45654642c5f9d8bd.d: /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/lib.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/device.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/enumerator.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/list.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/monitor.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/udev.rs /home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/util.rs
+
+/home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/lib.rs:
+/home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/device.rs:
+/home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/enumerator.rs:
+/home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/list.rs:
+/home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/monitor.rs:
+/home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/udev.rs:
+/home/fabiane/.cargo/registry/src/github.com-1ecc6299db9ec823/udev-0.6.3/src/util.rs:
