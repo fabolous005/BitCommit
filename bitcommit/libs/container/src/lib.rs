@@ -120,4 +120,3 @@ pub fn run() {
         .arg(std::env::args().nth(2).expect("could not use argv[2]"));
 }
 
-
